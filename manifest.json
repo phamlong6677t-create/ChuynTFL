@@ -1,0 +1,22 @@
+{
+  "name": "Roblox TFL",
+  "short_name": "Roblox TFL",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#4a6baf",
+  "theme_color": "#4a6baf",
+  "description": "Ứng dụng Roblox TFL",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
